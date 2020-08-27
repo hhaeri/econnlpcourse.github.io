@@ -1,6 +1,6 @@
 # Site settings
-title: Course Website
-subtitle: Title of the Course
+title: NLP for Economists
+subtitle: 
 description: |
     Add a description of your course. 
 baseurl: "" # the subpath of your site, e.g. /blog/
