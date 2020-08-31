@@ -14,10 +14,8 @@
       </div>
 
       <div class="footer-col  footer-col-2">
- 
 
-         <p class="text">
-{{ site.address | newline_to_br  }}
+
       </div>
 
       <div class="footer-col  footer-col-3">
@@ -26,8 +24,8 @@
 
           {% if site.github_username %}
   <li>
-    <a href="https://github.com/{{ site.githubdir }}">
-      <i class="fab fa-github" style="color:gray"></i> {{ site.githubdir }}
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fab fa-github" style="color:gray"></i> {{ site.github_username }}
     </a>
   </li>
 {% endif %}
