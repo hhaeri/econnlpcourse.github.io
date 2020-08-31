@@ -1,4 +1,10 @@
-# Syllabus
+# Syllabus and Assessment
+
+The following is a list of topics discussed in this course, along with the recommended readings. Each topic will be followed by one programming assignment. Each topic is made up of several videos, uploaded to an unlisted youtube channel. The link will be emailed before we start the course. We will have 1-2 zoom meetings for each topic under the assumption that you already watched the videos before we meet. Link and schedule of the zoom meetings will be communicated by email before we start the course. You can post your questions apriori if you want, as comments under the videos. 
+
+The course only has Pass/Fail grade, due to the current (rather stressful) situation. 
+
+Here are the topics. Assignments will be uploaded in due course of time. 
 
 ## 1. Introduction
 - Course overview
