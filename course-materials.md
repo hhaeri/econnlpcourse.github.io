@@ -89,3 +89,5 @@ The following is a list of papers at the intersection of NLP and Economics I com
 37. Wu, D. X., Yao, X., & Guo, J. L. (2020). Is Textual Tone Informative or Inflated for Firm’s Future Value? Evidence from Chinese Listed Firms. Economic Modelling.
 
 38. Benchimol, J., & El-Shagi, M. (2020). Forecast performance in times of terrorism. Economic Modelling.
+
+39. Gao, L. (2016). Applications of MachLearning and Computational Linguistics in Financial Economics (Doctoral dissertation, Carnegie Mellon University).
