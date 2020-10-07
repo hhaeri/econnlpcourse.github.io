@@ -7,9 +7,9 @@ This page consists of the links to lecture slides and assignments. Lecture video
 2. NLP Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPOverview.pdf)  
 3. NLP in Economics - an Overview: 
 
-## NLP in Economics  
+Assignment 0 - Description  
 
-## Assignment 0
+Online discussion notes/summary  
 
 
 # Topic 1: Python overview
