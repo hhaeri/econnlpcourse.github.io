@@ -3,11 +3,11 @@ This page consists of the links to lecture slides and assignments. Lecture video
 
 # Topic 0: Introduction
 
-## Course Overview
-[slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-Overview.pdf)
-## NLP Overview
-[slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPOverview.pdf)
-## NLP in Economics
+1. Course Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-Overview.pdf)  
+2. NLP Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPOverview.pdf)  
+3. NLP in Economics - an Overview: 
+
+## NLP in Economics  
 
 ## Assignment 0
 
