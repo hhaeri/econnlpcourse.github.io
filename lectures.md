@@ -5,9 +5,9 @@ This page consists of the links to lecture slides and assignments. Lecture video
 
 1. Course Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-Overview.pdf)  
 2. NLP Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPOverview.pdf)  
-3. NLP in Economics - an Overview: 
+3. NLP in Economics - an Overview: [slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPinEcon.pdf)  
 
-Assignment 0 - Description  
+[Assignment 0 - Description](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/Assignments/Assignment0.pdf)  
 
 Meeting on: 16th October 2020   
 
