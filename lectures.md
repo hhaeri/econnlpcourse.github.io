@@ -9,19 +9,46 @@ This page consists of the links to lecture slides and assignments. Lecture video
 
 Assignment 0 - Description  
 
+Meeting on: 16th October 2020   
+
 Online discussion notes/summary  
 
 
 # Topic 1: Python overview
 
 
+Assignment 1 - Description  
+
+Meeting on: 16th October 2020   
+
+Online discussion notes/summary  
+
+
+
 # Topic 2: Python and Text
+
+
+Assignment 2 - Description  
+
+Meeting on: 19th October 2020   
+
+Online discussion notes/summary  
+
 
 
 # Topic 3: NLP and Machine Learning Methods: An Introduction
 
+Assignment 3 - Description  
+
+Meeting on: 21st and 23rd October 2020   
+
+Online discussion notes/summary  
+
+
 
 # Topic 4: NLP and Economics
+
+Meeting on: 26th and 28th October 2020
 
 
 
