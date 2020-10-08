@@ -91,3 +91,5 @@ The following is a list of papers at the intersection of NLP and Economics I com
 38. Benchimol, J., & El-Shagi, M. (2020). Forecast performance in times of terrorism. Economic Modelling.
 
 39. Gao, L. (2016). Applications of MachLearning and Computational Linguistics in Financial Economics (Doctoral dissertation, Carnegie Mellon University).
+
+40. Kong, N., Dulleck, U., Jaffe, A. B., Sun, S., & Vajjala, S. (2020). Linguistic Metrics for Patent Disclosure: Evidence from University Versus Corporate Patents (No. w27803). National Bureau of Economic Research.
