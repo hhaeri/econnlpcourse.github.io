@@ -16,7 +16,7 @@ Online discussion notes/summary
 
 # Topic 1: Python overview
 0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-PythonOverview.pdf)
-1. [Python basics - overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/PythonOverview-Part1.pdf) - covers variables, conditionals, loops, functions, error handling, files etc  
+1. [Python basics - overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/PythonOverview.pdf) - covers variables, conditionals, loops, functions, error handling, files etc  
 2. [Python data structures - overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/PythonOverview-Part2.pdf) - covers strings, lists, dictionaries, tuples etc  
 
 [Assignment 1 - Description](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/Assignments/Assignment1.pdf)  
