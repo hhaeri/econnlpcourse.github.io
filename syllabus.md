@@ -44,6 +44,8 @@ Chapters 2 and 3 in "Practical Natural Language Processing"
 - Information extraction (regular expressions, key phrase extraction, named entity recognition/linking etc)
 - Topic modeling
 - Text summarization
+- Visualizing textual data
+
 ### Readings: 
 Chapter 1-2 from "NLTK book" (\url{https://nltk.org/book}) and Chapters 4-7 in "Practical Natural Language Processing" \\
 
