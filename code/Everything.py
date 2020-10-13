@@ -24,7 +24,7 @@ fh = open("files/mbox-short.txt") #open a file handler
 
 for line in fh: #read the file line by line
     # We have to now see if the line is starting with "From"
-    if line.startswith("From"): #use the
+    if line.startswith("From:"): #use the
         # All lines that start with a From are not necessarily in the format we want.
         try: #what if there is no space at all in this line? the line below will throw an error
             temp = line.split(" ") #.split() method splits a string into pieces and returns a list.
