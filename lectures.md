@@ -29,8 +29,8 @@ Online discussion notes/summary
 
 # Topic 2: Python and Text
 
-0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-PythonOverview.pdf)   
-1. [Working with different file formats](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/PythonandText-Overview.pdf)  
+0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-PythonandText-Overview.pdf)   
+1. [Working with different file formats](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-FileFormats.pdf)  
 2. [Text preprocessing](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TextPreprocessing.pdf)  
 3. [Text representation](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TextRepresentation.pdf)  
 
