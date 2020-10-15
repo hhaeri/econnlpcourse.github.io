@@ -42,18 +42,26 @@ Meeting on: 19th October 2020
 Online discussion notes/summary  
 
 
-
 # Topic 3: NLP and Machine Learning Methods: An Introduction
 
-Assignment 3 - Description  
+0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPMLOverview.pdf)  
+1. [Regular Expressions]()  
+2. [Corpus Collection](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-CorpusCollection.pdf)  
+3. [Corpus Analysis]()  
+4. [Text Classification]()  
+5. [Information Extraction]()  
+6. [Topic Modeling]()  
+7. [Text Summarization](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TextSummarization.pdf)  
+
+[Assignment 3 - Description](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/Assignments/Assignment3.pdf)  
 
 Meeting on: 21st and 23rd October 2020   
 
 Online discussion notes/summary  
 
 
-
 # Topic 4: NLP and Economics
+
 
 Meeting on: 26th and 28th October 2020
 
