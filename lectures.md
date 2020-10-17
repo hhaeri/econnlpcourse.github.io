@@ -47,7 +47,7 @@ Online discussion notes/summary
 0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPMLOverview.pdf)  
 1. [Regular Expressions](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-RegEx.pdf)  
 2. [Corpus Collection](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-CorpusCollection.pdf)  
-3. [Corpus Analysis]()  
+3. [Corpus Analysis](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-CorpusAnalysis.pdf)  
 4. [Text Classification]()  
 5. [Information Extraction](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-IE.pdf)  
 6. [Topic Modeling]()  
