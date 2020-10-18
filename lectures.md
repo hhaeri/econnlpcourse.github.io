@@ -51,7 +51,7 @@ Online discussion notes/summary
 4. [Text Classification](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TextClassification.pdf)  
 ([code example](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/codeExamples/usingamodel.py))
 5. [Information Extraction](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-IE.pdf)  
-6. [Topic Modeling]()  
+6. [Topic Modeling](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TopicModeling.pdf)  
 7. [Text Summarization](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-TextSummarization.pdf)  
 
 [Assignment 3 - Description](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/Assignments/Assignment3.pdf)  
