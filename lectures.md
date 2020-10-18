@@ -36,13 +36,14 @@ Online discussion notes/summary
 
 [Assignment 2 - Description](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/Assignments/Assignment2.pdf)  
 
-
 Meeting on: 19th October 2020   
 
 Online discussion notes/summary  
 
 
 # Topic 3: NLP and Machine Learning Methods: An Introduction
+
+[A note on installing required python libraries](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-InstallingLibraries.pdf)  
 
 0. [Overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-NLPMLOverview.pdf)  
 1. [Regular Expressions](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/ECONNLP-RegEx.pdf)  
