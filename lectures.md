@@ -1,4 +1,4 @@
-This page consists of the links to lecture slides and assignments. Lecture videos are shared in a private folder to registered participants.
+This page consists of the links to lecture slides and assignments. Lecture videos are shared in a private folder to registered participants. For details on the deadlines for assignments/termpaper check your emails. 
 
 
 # Topic 0: Introduction
@@ -77,5 +77,12 @@ Online discussion notes/summary
 
 Meeting on: 26th and 28th October 2020 (Schedule with groups and papers will be put up towards the meeting dates!)
 
+# Review session
 
+Meeting on 30th October 2020
 
+# Term papers
+
+Write a problem statement for a research question in your discipline that you think can benefit from using NLP methods. Give some background about the problem, existing ways of addressing it, and how NLP can help. Write about what NLP approaches you learnt in this class can be useful for this problem. You are free to read any related literature, but I want you to come up with a problem statement of your own. Your writeups can be 2-4 pages long, and contain all the above mentioned information.
+
+There is no meeting afterwards. I will send you feedback by email.
