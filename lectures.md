@@ -62,10 +62,20 @@ Meeting on: 21st and 23rd October 2020
 Online discussion notes/summary  
 
 
-# Topic 4: NLP and Economics
+# Topic 4: NLP and Economics, Group Discussions
 
+**Instructions:**
+1. Students are grouped into teams of 2-4 people and can choose a paper related to economics research that uses NLP methods. You can choose one of the papers from the readings list in [course materials](https://econnlpcourse.github.io/course-materials/) or pick one on your own.   
 
-Meeting on: 26th and 28th October 2020
+2. Teams should present for 10 min, we can have a 5-10 min additional discussion per team.  Slides are optional.  
+
+3. **What to cover:**  
+   - What problem relevant to economics is covered in the paper
+   - What NLP methods are used?
+   - How do they fare? What is your opinion about the paper?
+   - What are some good ideas for future if you get a chance to work on this topic?
+
+Meeting on: 26th and 28th October 2020 (Schedule with groups and papers will be put up towards the meeting dates!)
 
 
 
