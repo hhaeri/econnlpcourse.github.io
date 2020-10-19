@@ -124,11 +124,11 @@ The following is a list of papers at the intersection of NLP and Economics I com
 
 [Proceedings of the First Workshop on Financial Technology and Natural Language Processing. 2019](https://www.aclweb.org/anthology/events/ws-2019/#w19-55)
 
-[Proceedings of the Second Workshop on Financial Technology and Natural Language Processing](https://www.aclweb.org/anthology/2020.finnlp-1.0.pdf)
+[Proceedings of the Second Workshop on Financial Technology and Natural Language Processing. 2020](https://www.aclweb.org/anthology/2020.finnlp-1.0.pdf)
 
-[Proceedings of the second workshop on Economics and Natural Language Processing (9 papers). 2019](https://www.aclweb.org/anthology/events/ws-2019/#d19-51)
+[Proceedings of the second workshop on Economics and Natural Language Processing. 2019](https://www.aclweb.org/anthology/events/ws-2019/#d19-51)
 
-[Proceedings of the first workshop on Economics and Natural Language Processing (9 papers). 2019](https://www.aclweb.org/anthology/events/ws-2018/#w18-31)
+[Proceedings of the first workshop on Economics and Natural Language Processing (9 papers). 2018](https://www.aclweb.org/anthology/events/ws-2018/#w18-31)
 
 
 
