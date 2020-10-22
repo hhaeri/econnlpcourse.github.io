@@ -99,39 +99,33 @@ Meeting on: 26th and 28th October 2020 (Schedule with groups and papers will be 
 <td markdown="span">Dominik, Julian, Clarissa</td>
 <td markdown="span">Fetzer, T. (2020): Can Workfare Programs Moderate Conflict? Evidence from India. Journal of the European Economic Association.</td>
 <td markdown="span">26/10, Group 2</td>
-</td>
 </tr>
 <tr>
 <td markdown="span">Tim, Felix,Emilio</td>
 <td markdown="span">Gentzkow, M., Shapiro, J.M. and Taddy, M., 2019. Measuring group differences in high‐dimensional choices: method and application to congressional speech. Econometrica, 87(4), pp.1307-1340.</td>
 <td markdown="span">26/10, Group 3</td>
-</td>
 </tr>
 <tr>
 <td markdown="span">Lena, Svenja, Silvia, Hoa</td>
 <td markdown="span">Kolev, Julian and Fuentes-Medel, Yuly and Murray, Fiona E., Is Blinded Review Enough? How Gendered Outcomes Arise Even Under Anonymous Evaluation (April 2019). NBER Working Paper No. w25759.</td>
 <td markdown="span">28/10, Group 1</td>
-</td>
 </tr>
 <tr>
 <td markdown="span">Leonie, Philipp, Raphaela</td>
 <td markdown="span">Ros, R., van Erp, M., Rijpma, A., & Zijdeman, R. (2020). Mining Wages in Nineteenth-Century Job Advertisements. The Application of Language Resources and Language Technology to study Economic and Social Inequality. In Proceedings of the Workshop about Language Resources for the SSH Cloud (pp. 27-32).
 </td>
 <td markdown="span">28/10, Group 2</td>
-</td>
 </tr>
 <tr>
 <td markdown="span">Jakob, Moritz, Lukas R</td>
 <td markdown="span">Jelveh, Z., Kogut, B., & Naidu, S. (2014, October). Detecting latent ideology in expert text: Evidence from academic papers in economics. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 1804-1809).</td>
 <td markdown="span">28/10, Group 3</td>
-</td>
 </tr>
 
 <tr>
 <td markdown="span">Simeon</td>
 <td markdown="span">Thompson, N., & Hanley, D. (2018). Science is shaped by wikipedia: Evidence from a randomized control trial</td>
 <td markdown="span">28/10, Group 4</td>
-</td>
 </tr>
 </tbody>
 </table>
