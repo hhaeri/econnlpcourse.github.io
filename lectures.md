@@ -122,11 +122,6 @@ Meeting on: 26th and 28th October 2020 (Schedule with groups and papers will be 
 <td markdown="span">28/10, Group 3</td>
 </tr>
 
-<tr>
-<td markdown="span">Simeon</td>
-<td markdown="span">Thompson, N., & Hanley, D. (2018). Science is shaped by wikipedia: Evidence from a randomized control trial</td>
-<td markdown="span">28/10, Group 4</td>
-</tr>
 </tbody>
 </table>
 
