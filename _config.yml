@@ -2,7 +2,7 @@
 title: NLP for Economists
 subtitle: 
 description: |
-    MGSE Guest Course, October 2020 
+    MGSE Guest Course, October 2022 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://econnlpcourse.github.io/" # the base hostname & protocol for your site
 syllabus: ""#
@@ -11,7 +11,7 @@ githubdir: "econnlpcourse/econnlpcourse.github.io"
 # Author/user information
 title: Sowmya Vajjala
 jobtitle: National Research Council,Canada
-email: sowmya.vajjala@nrc-cnrc.gc.ca
+email: sowmya . vajjala @ nrc-cnrc.gc.ca
 twitter_username: adyantalamadhya
 github_username:  nishkalavallabhi
 authorurl: "https://www.linkedin.com/in/sowmya-v-2a38734/"
