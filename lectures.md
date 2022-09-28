@@ -9,7 +9,9 @@ An overview of the course, NLP, and NLP in Economics.
 # Session 2: Python overview, and an introduction to text analysis in python 
 ## 6th October 2022  
 
-slides are yet to be uploaded.
+[Python overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Overview.ipynb) - Jupyter notebook
+[Python and text overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Text-Overview.ipynb) - Jupyter notebook
+[Regular expressions](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture2-6Oct.pdf) - slides 
 
 Older files, which may still be useful for Python basics:  
 1. [Python basics - overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/PythonOverview.pdf) - covers variables, conditionals, loops, functions, error handling, files etc  
