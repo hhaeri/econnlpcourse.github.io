@@ -11,6 +11,8 @@ There is no single textbook. Here are a few reference books - my teaching materi
 - ["Practical Natural Language Processing" by Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta and Harshit Surana](https://www.amazon.de/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054/). The book is also available for free on O'Reilly's online learning platform (if your university is subscribed).
 - "Speech and Language Processing" by Jurafsky and Martin [2nd Edition](https://github.com/rain1024/slp2-pdf). [3rd Edition](https://web.stanford.edu/~jurafsky/slp3/)
 
+One book that may be useful is this 2022 book: "Text as Data: A New Framework for Machine Learning and the Social Sciences" by Justin Grimmer, Margaret E. Roberts, Brandon M. Stewart, published by Princeton University Press. The [Google Books Preview](https://books.google.ca/books?id=dL40EAAAQBAJ&printsec=frontcover#v=onepage&q&f=false) seems interesting. 
+
 ## Papers from Economics journals - 1
 The following is a list of papers at the intersection of NLP and Economics I compiled from some past readings and exploring google scholar's list of 20 most cited Economics journals. The list is neither complete nor objective and I did not read everything. You are free to choose any other relevant paper for the group discussions. You can find links to these by searching for titles on Google Scholar. 
 
