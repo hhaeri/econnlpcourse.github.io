@@ -9,13 +9,9 @@ An overview of the course, NLP, and NLP in Economics.
 # Session 2: Python overview, and an introduction to text analysis in python 
 ## 6th October 2022  
 
-[Python overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Overview.ipynb) Jupyter notebook.   
+[Python overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Overview.ipynb) Jupyter notebook. [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Overview.ipynb)
 
-Open the repository in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Overview.ipynb)
-
-[Python and text overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Text-Overview.ipynb) Jupyter notebook   
-
-Open the repository in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Text-Overview.ipynb)
+[Python and text overview](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Text-Overview.ipynb) Jupyter notebook. [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/Python-Text-Overview.ipynb)
 
 [Regular expressions](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture2-6Oct.pdf) - slides    
 
