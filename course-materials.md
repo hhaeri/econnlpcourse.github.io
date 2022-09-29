@@ -46,7 +46,7 @@ The following is a list of papers at the intersection of NLP and Economics I com
 
 13. Baylis, P. (2020). [Temperature and temperament: Evidence from Twitter](https://www.sciencedirect.com/science/article/abs/pii/S0047272720300256). Journal of Public Economics, 184, 104161.  
 
-14.Ros, R., van Erp, M., Rijpma, A., & Zijdeman, R. (2020). [Mining Wages in Nineteenth-Century Job Advertisements](https://aclanthology.org/2020.lr4sshoc-1.5/). The Application of Language Resources and Language Technology to study Economic and Social Inequality. In Proceedings of the Workshop about Language Resources for the SSH Cloud (pp. 27-32).
+14. Ros, R., van Erp, M., Rijpma, A., & Zijdeman, R. (2020). [Mining Wages in Nineteenth-Century Job Advertisements](https://aclanthology.org/2020.lr4sshoc-1.5/). The Application of Language Resources and Language Technology to study Economic and Social Inequality. In Proceedings of the Workshop about Language Resources for the SSH Cloud (pp. 27-32).
 
 15. Moreno-Ortiz, A., Fernandez-Cruz, J., & Hernández, C. P. C. (2020). Design and Evaluation of SentiEcon: a fine-grained Economic/Financial Sentiment Lexicon from a Corpus of Business News. In Proceedings of The 12th Language Resources and Evaluation Conference (pp. 5065-5072).
 
