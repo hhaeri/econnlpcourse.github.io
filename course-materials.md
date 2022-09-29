@@ -13,7 +13,9 @@ There is no single textbook. Here are a few reference books - my teaching materi
 
 One book that may be useful is this 2022 book: "Text as Data: A New Framework for Machine Learning and the Social Sciences" by Justin Grimmer, Margaret E. Roberts, Brandon M. Stewart, published by Princeton University Press. The [Google Books Preview](https://books.google.ca/books?id=dL40EAAAQBAJ&printsec=frontcover#v=onepage&q&f=false) seems interesting. 
 
-## Papers from Economics journals - 1
+This paper gives a good survey of how NLP methods are used in Economics and related research areas: Gentzkow, M., Kelly, B., & Taddy, M. (2019). [Text as data](https://www.jstor.org/stable/pdf/26787457.pdf). Journal of Economic Literature, 57(3), 535-74.
+
+## Related papers
 The following is a list of papers at the intersection of NLP and Economics I compiled from some past readings and exploring google scholar's list of 20 most cited Economics journals. The list is neither complete nor objective and I did not read everything. A lot of these are published in NLP venues. You are free to choose any other relevant paper for the group discussions. You can find links to these by searching for titles on Google Scholar. 
 
 (Organized chronologically, latest first)
