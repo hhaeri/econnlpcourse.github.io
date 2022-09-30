@@ -1,62 +1,81 @@
 # Syllabus and Assessment
 
-The following is a list of topics discussed in this course, along with the recommended readings. Each topic will be followed by one programming assignment. Each topic is made up of several videos, uploaded to an unlisted youtube channel. The link will be emailed before we start the course. We will have 1-2 zoom meetings for each topic under the assumption that you already watched the videos before we meet. Link and schedule of the zoom meetings will be communicated by email before we start the course. You can post your questions apriori if you want, as comments under the videos. 
+Course meets 6 times: 5th, 6th, 7th October; 11th, 12th, 13th October; 3-6 pm CEST.
 
-The course only has Pass/Fail grade, due to the current (rather stressful) situation. 
+Mode of meeting: Zoom (Link sent by email to registered students)
 
-Here are the topics. Assignments will be uploaded in due course of time. 
+The course only has Pass/Fail grade.
+
+**Pass**: attending and participating in the classes, presenting a brief discussion of one of the papers from the reading list, writing a short term paper (2-3 pages) discussing how NLP could be useful for economics research questions of your interest. 
+
+# Topics:
+(Each topic is one lecture, 3 hours duration)
 
 ## 1. Introduction
 - Course overview
 - Introduction to NLP
 - NLP, Machine Learning, and Economics: an overview
 
-### Readings:  
+Readings:  
 (Note that you are not obligated to read everything thoroughly).
 - Chapter 1 from "Speech and Language Processing" by Jurafsky and Martin (available online)
 - Gentzkow, M., Kelly, B., \& Taddy, M. (2019). Text as data. Journal of Economic Literature, 57(3), 535-74. 
 
-## 2. Python fundamentals
-- Installing python on your personal machines/lab machines. Writing a hello world program. See this link for instructions: \url{https://www.py4e.com/install}
-- Installing Jupyter notebook
-- Writing basic variable declarations, performing arithmetic operations
-- Basic data structures (strings, lists, dictionaries)
-- Basic programming: conditional statements, loops, functions, error handling
-- Reading and writing text files
+Form: Lecture +  discussion  
 
-### Readings: 
-"Python for Everybody" by Charles Severence. \url{https://www.py4e.com/html3/}. The content covered in this Chapter is taken from the first 10 chapters in the book. 
+## 2. Python fundamentals  
+- Overview of Python  
+- Basic text analysis with Python  
 
-## 3. Python & textual data 
-- How to install various libraries
-- Reading and writing files in different formats (e.g., pdf, html, text, doc etc)
-- Pre-processing text (e.g., sentence splitting, removing punctuation/digits etc if needed)
-- Representing text as a numeric vector (e.g., bag of words, TF-IDF, embeddings)
+Readings:   
+- "Python for Everybody" by Charles Severence.   \url{https://www.py4e.com/html3/}. The content covered in this Chapter is taken from the first 10 chapters in the book.   
+- Chapter 1-2 in the NLTK book  
 
-### Readings: 
-Chapters 2 and 3 in "Practical Natural Language Processing"
+Form: Hands-on exercises + discussion  
 
-## 4. NLP and Machine Learning methods
-(with econ specific datasets where possible)
-- Corpus collection (e.g., social media text, ethical issues etc)
-- Corpus analysis (basic analysis - e.g., frequent words/phrases etc)
-- Text classification 
-- Information extraction (regular expressions, key phrase extraction, named entity recognition/linking etc)
-- Topic modeling
-- Text summarization
-- Visualizing textual data
+## 3. NLP and Machine Learning methods  
+- Overview of NLP methods  
+- Examples of using existing NLP tools  
 
-### Readings: 
-Chapter 1-2 from "NLTK book" (\url{https://nltk.org/book}) and Chapters 4-7 in "Practical Natural Language Processing" \\
+Form: Lecture + Hands-on exercises  
 
-## 5. NLP and Economics: selected readings + Group discussion 
-(perhaps working in groups of 2-3 people?) 
-You can choose from some of [these papers](https://econnlpcourse.github.io/course-materials/) 
+Readings:   
+- Chapters 2-3 in Practical Natural Language Processing  
+- Materials from [Applied Language Technology   MOOC](https://applied-language-technology.mooc.fi/html/index.html) by Dr. Tuomo Hiippala.   
 
-## 6. Student term papers 
-Briefly summarize what you learnt about the intersection of NLP and Economics by taking this course, and note down some thoughts on how it is useful for your own research topics. Depending on the time and interest, we can decide whether we want to have a presentation session or just writeup submissions. 
+## 4. Diving deeper: Text Classification
+- Overview of text classification
+- Discussion of some common algorithms
+- Hands on exercises
 
-## 7. Recap
-- Discussion on topics covered
-- Review of exercises
-- Resources for the future
+Form: Lecture + Hands-on exercises  
+Readings: Chapter 4 in Practical Natural Language Processing
+
+## 5. NLP without annotated data
+
+Form: Lecture + Hands-on exercises  
+
+## 6. NLP and Economics: selected readings    
+
+Form: Student presentations (perhaps in groups of 2-3 people?)   
+
+You can choose from some of [these papers](https://econnlpcourse.github.io/course-materials/)   
+
+Expectation: Give a short overview of  
+- what the paper is about?  
+- what aspect of economics does the paper deal with?  
+- how does it use NLP for that purpose?  
+- what do you think of the paper? what are some potential limitations to the approach? etc.  
+
+Duration: 10 minutes + 5 min discussion (Not a strict requirement)  
+
+## 7. Student term papers   
+Briefly summarize (2-3 pages) what you learnt about the intersection of NLP and Economics by taking this course, and note down some thoughts on how it is useful for your own research topics. Depending on the time and interest, we can decide whether we want to have a presentation session or just writeup submissions.  
+
+Deadline: 27th October 2022  
+
+## 7. Recap (optional session on 17th or 18th October)  
+- Discussion on topics covered  
+- Review of exercises  
+- Resources for the future  
+- Anything you want to ask  
