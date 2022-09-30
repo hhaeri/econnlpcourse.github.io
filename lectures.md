@@ -22,6 +22,9 @@ Older files, which may still be useful for Python basics:
 
 # Session 3: NLP and Machine Learning Methods: An Introduction  
 ## 7th October 2022
+[NLP methods - an overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture3-7Oct.pdf) (slides)  
+
+[NLP with Spacy/Textacy](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/NLP_Spacy_Textacy.ipynb) Jupyter notebook. [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/NLP_Spacy_Textacy.ipynb)
 
 # Session 4: Text Classification: A closer look  
 ## 11th October 2022
