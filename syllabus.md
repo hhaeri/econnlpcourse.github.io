@@ -36,6 +36,7 @@ Form: Hands-on exercises + discussion
 ## 3. NLP and Machine Learning methods  
 - Overview of NLP methods  
 - Examples of using existing NLP tools  
+- How do NLP methods work with Economics research?
 
 Form: Lecture + Hands-on exercises  
 
