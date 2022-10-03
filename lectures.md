@@ -26,11 +26,16 @@ Older files, which may still be useful for Python basics:
 
 [NLP with Spacy/Textacy](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/NLP_Spacy_Textacy.ipynb) Jupyter notebook. [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/NLP_Spacy_Textacy.ipynb)
 
-# Session 4: Text Classification: A closer look  
+# Session 4: Text Classification and Topic Modeling  
 ## 11th October 2022
 
 # Session 5: NLP with little or no training data  
 ## 12th October 2022 
+
+[Slides](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture5-12Oct.pdf)
+
+[Code and Data](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/code/Session5-Materials)
+
 
 # Session 6: NLP and Economics, Group Discussions  
 ## 13th October 2022  

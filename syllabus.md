@@ -44,21 +44,24 @@ Readings:
 - Chapters 2-3 in Practical Natural Language Processing  
 - Materials from [Applied Language Technology   MOOC](https://applied-language-technology.mooc.fi/html/index.html) by Dr. Tuomo Hiippala.   
 
-## 4. Diving deeper: Text Classification
+## 4. Diving deeper: Text Classification and Topic Modeling
 - Overview of text classification
-- Discussion of some common algorithms
-- Hands on exercises
+- Overview of topic modeling
+- Code walkthroughs
 
 Form: Lecture + Hands-on exercises  
 Readings: Chapter 4 in Practical Natural Language Processing
 
 ## 5. NLP without annotated data
 
+- Overview of methods that don't rely on large training datasets
+- A case study with different ways of solving one such problem
+- Code walkthroughs
 Form: Lecture + Hands-on exercises  
 
 ## 6. NLP and Economics: selected readings    
 
-Form: Student presentations (perhaps in groups of 2-3 people?)   
+Form: Student presentations (perhaps in groups of 1-3 people)   
 
 You can choose from some of [these papers](https://econnlpcourse.github.io/course-materials/)   
 
