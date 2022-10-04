@@ -28,6 +28,10 @@ Older files, which may still be useful for Python basics:
 
 # Session 4: Text Classification and Topic Modeling  
 ## 11th October 2022
+[NLP methods - an overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture4-11Oct.pdf) (slides)   
+
+[Code/Data](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch4)  
+[Topic Modeling Example](https://github.com/practical-nlp/practical-nlp-code/blob/master/Ch7/02_TopicModelling.ipynb)  
 
 # Session 5: NLP with little or no training data  
 ## 12th October 2022 
