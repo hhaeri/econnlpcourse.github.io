@@ -30,7 +30,8 @@ Older files, which may still be useful for Python basics:
 ## 11th October 2022
 [NLP methods - an overview](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture4-11Oct.pdf) (slides)   
 
-[Text classification - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb)
+[Text classification - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb)   
+[Data file for the above notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Full-Economic-News-DFE-839861.csv)
 
 [Other Code/Data](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch4)  
 
