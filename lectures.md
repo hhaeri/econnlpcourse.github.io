@@ -35,7 +35,7 @@ Older files, which may still be useful for Python basics:
 
 [Other Code/Data](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch4)  
 
-[Topic Modeling Example](https://github.com/practical-nlp/practical-nlp-code/blob/master/Ch7/02_TopicModelling.ipynb)  
+[Topic Modeling Example](https://github.com/practical-nlp/practical-nlp-code/blob/master/Ch7/02_TopicModelling.ipynb)[![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/practical-nlp/practical-nlp-code/blob/master/Ch7/02_TopicModelling.ipynb)  
 
 # Session 5: NLP with little or no training data  
 ## 12th October 2022 
