@@ -31,7 +31,8 @@ Older files, which may still be useful for Python basics:
 [Text classification and topic modeling](https://github.com/econnlpcourse/econnlpcourse.github.io/tree/master/docs/slides/2022-Lecture4-11Oct.pdf) (slides)   
 
 [Text classification - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb)   
-[Data file for the above notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Full-Economic-News-DFE-839861.csv)
+[Data file for the above notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Full-Economic-News-DFE-839861.csv)  
+
 [Text classification with finetuning - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification-FineTuning.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification-FineTuning.ipynb)  
 
 [Other Code/Data](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch4)  
@@ -62,6 +63,8 @@ Older files, which may still be useful for Python basics:
 
 # (Optional) Session 7: Review
 ## 17th October 2022  
+
+
 
 # Term papers
 ## Deadline: 27th October 2022
