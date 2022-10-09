@@ -32,6 +32,7 @@ Older files, which may still be useful for Python basics:
 
 [Text classification - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification.ipynb)   
 [Data file for the above notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/Full-Economic-News-DFE-839861.csv)
+[Text classification with finetuning - Notebook](https://github.com/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification-FineTuning.ipynb). [![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/econnlpcourse/econnlpcourse.github.io/blob/master/code/TextClassification-FineTuning.ipynb)  
 
 [Other Code/Data](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch4)  
 
